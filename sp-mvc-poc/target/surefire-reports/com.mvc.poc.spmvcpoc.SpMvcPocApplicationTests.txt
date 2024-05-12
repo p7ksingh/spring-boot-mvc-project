@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.mvc.poc.spmvcpoc.SpMvcPocApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.218 s -- in com.mvc.poc.spmvcpoc.SpMvcPocApplicationTests
